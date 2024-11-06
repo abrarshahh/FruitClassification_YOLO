@@ -1,0 +1,4 @@
+train: C:\Users\HP\Desktop\AHB18434_05\Dataset\Train File
+val: C:\Users\HP\Desktop\AHB18434_05\Dataset\Test File
+nc: 10
+names: ['Banana','Jackfruit','Mango','Litchi','Hog Plum','Papaya','Grapes','Apple','Orange','Guava']
